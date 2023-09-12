@@ -1,6 +1,5 @@
 # Hashflix Versão: William
 Projeto em Python - Utilizando Django
-link: https://hashflixwilliam-0bebaf1c9ec6.herokuapp.com/
 
 ### Objetivo:
 Criar uma plataforma similar ao serviço de streaming Netflix.
