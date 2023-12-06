@@ -14,7 +14,7 @@ Antes de começar, é necessário ter as seguintes ferramentas instaladas em sua
 
 ### Imagens do frontend
 Homepage
-![image](https://github.com/wdesouza95/hashflix_william/assets/114028870/6e15d2e0-58b4-45ba-a5d4-f5f56d51886d)
+![image](https://github.com/wdesouza95/hashflix_william/assets/114028870/d82b1e94-8157-455e-a641-d4e8148dd555)
 
 
 ### Elaborado por William
