@@ -17,4 +17,8 @@ Homepage
 ![image](https://github.com/wdesouza95/hashflix_william/assets/114028870/d82b1e94-8157-455e-a641-d4e8148dd555)
 
 
+Edição do perfil do usuário
+![image](https://github.com/wdesouza95/hashflix_william/assets/114028870/7918146b-2d30-4958-99b7-37d7052036e8)
+
+
 ### Elaborado por William
