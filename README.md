@@ -1,16 +1,55 @@
-# Hashflix Versão: William
-Projeto em Python - Utilizando Django
+## Nome do Projeto: HashFlix - Aprendizado de Tecnologias
 
-### Objetivo:
-Criar uma plataforma similar ao serviço de streaming Netflix.
+## Descrição:
+HashFlix é uma plataforma educacional voltada para o aprendizado de tecnologias-chave, como Python, VBA, Excel e SQL, oferecendo uma experiência de aprendizagem interativa e atraente. O projeto, construído utilizando Python e o framework Django, foi desenvolvido para fornecer um ambiente amigável para o estudo e prática dessas tecnologias.
 
-### Tecnologias Principais Utilizadas:
-Python
-Estrutura Django
-HTML5
+## Principais Funcionalidades:
 
-### Pré-requisitos
-Antes de começar, é necessário ter as seguintes ferramentas instaladas em sua máquina: Git e Python. Além disso, é recomendável possuir um editor/IDE para trabalhar com o código, como o PyCharm.
+## Registro e Autenticação de Usuários:
+Os usuários podem criar contas, fazer login e gerenciar seus perfis.
+Autenticação segura com opções de recuperação de senha e confirmação de e-mail.
+
+
+## Catálogo de Cursos de Tecnologia:
+Uma extensa variedade de cursos focados em Python, VBA, Excel e SQL.
+Organização por níveis de habilidade e categorias específicas para facilitar a escolha do curso desejado.
+
+
+## Detalhes do Curso:
+Páginas dedicadas a cada curso com informações detalhadas sobre o conteúdo, instrutores, pré-requisitos e objetivos.
+Listagem de módulos ou lições dentro de cada curso, permitindo aos usuários acompanhar seu progresso.
+
+
+## Pesquisa e Recomendações Personalizadas:
+Sistema de busca avançada para encontrar cursos com base em títulos, categorias e habilidades específicas.
+Recomendações personalizadas com base nos interesses e histórico de visualização do usuário.
+
+
+## Acompanhamento do Progresso:
+Registro do progresso do usuário em cada curso, permitindo a retomada de onde parou.
+Estatísticas detalhadas sobre o progresso e a conclusão dos cursos.
+
+
+## Secções Especiais: Em Alta, Novos e Relacionados:
+Destaque para cursos populares, recém-adicionados e relacionados às tecnologias oferecidas.
+
+
+## Painel de Administração:
+Área administrativa segura para gerenciar cursos, usuários, análises e conteúdo do site.
+
+
+## Tecnologias Utilizadas:
+Python e Django: Para a lógica do aplicativo e o desenvolvimento do backend.
+HTML/CSS/JavaScript: Para a criação da interface do usuário responsiva e interativa.
+Banco de Dados: Django ORM para interação com o banco de dados (SQLite, PostgreSQL, MySQL, etc.).
+Autenticação e Autorização: Utilização do Django's Authentication Framework para gerenciar a segurança dos usuários.
+
+
+## Benefícios:
+Proporciona uma experiência de aprendizagem semelhante à Netflix, oferecendo familiaridade aos usuários.
+Foca em tecnologias essenciais para o mercado de trabalho, facilitando o aprendizado e a prática.
+Este esboço do projeto destaca as funcionalidades e a abordagem para uma plataforma educacional, "HashFlix", centrada em tecnologias como Python, VBA, Excel e SQL. As especificações detalhadas e a implementação completa exigiriam uma análise mais aprofundada do design, fluxo de trabalho e requisitos específicos do projeto.
+
 
 ### Imagens do frontend
 Homepage
