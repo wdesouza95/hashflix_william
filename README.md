@@ -1,4 +1,4 @@
-## Nome do Projeto: HashFlix - Aprendizado de Tecnologias
+# HashFlix - Aprendizado de Tecnologias
 
 ## Descrição:
 HashFlix é uma plataforma educacional voltada para o aprendizado de tecnologias-chave, como Python, VBA, Excel e SQL, oferecendo uma experiência de aprendizagem interativa e atraente. O projeto, construído utilizando Python e o framework Django, foi desenvolvido para fornecer um ambiente amigável para o estudo e prática dessas tecnologias.
