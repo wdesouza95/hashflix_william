@@ -55,9 +55,22 @@ Este esboço do projeto destaca as funcionalidades e a abordagem para uma plataf
 Homepage
 ![image](https://github.com/wdesouza95/hashflix_william/assets/114028870/d82b1e94-8157-455e-a641-d4e8148dd555)
 
+Criação de conta
+![image](https://github.com/wdesouza95/hashflix_william/assets/114028870/e9364142-0eb1-4ad2-97ca-29f1ab7e03f5)
 
 Edição do perfil do usuário
 ![image](https://github.com/wdesouza95/hashflix_william/assets/114028870/7918146b-2d30-4958-99b7-37d7052036e8)
+
+Seção dos novos conteúdos
+![image](https://github.com/wdesouza95/hashflix_william/assets/114028870/1ce84ebb-f8ac-4d94-b2d8-101fb9c19ab4)
+
+Seção de pesquisa de conteúdo
+![image](https://github.com/wdesouza95/hashflix_william/assets/114028870/97ae52a2-8d8b-4d45-a26a-5b640c360db3)
+
+Pagina do curso com a lista de aulas
+![image](https://github.com/wdesouza95/hashflix_william/assets/114028870/c9db5f3b-7192-43e2-b2d9-835d054a3aff)
+
+
 
 
 ### Elaborado por William
