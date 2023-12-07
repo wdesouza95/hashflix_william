@@ -7,27 +7,26 @@ HashFlix é uma plataforma educacional voltada para o aprendizado de tecnologias
 
 ### 1. Registro e Autenticação de Usuários:
 Os usuários podem criar contas, fazer login e gerenciar seus perfis.
-Autenticação segura com opções de recuperação de senha e confirmação de e-mail.
 
 
 ### 2. Catálogo de Cursos de Tecnologia:
 Uma extensa variedade de cursos focados em Python, VBA, Excel e SQL.
-Organização por níveis de habilidade e categorias específicas para facilitar a escolha do curso desejado.
 
 
 ### 3. Detalhes do Curso:
-Páginas dedicadas a cada curso com informações detalhadas sobre o conteúdo, instrutores, pré-requisitos e objetivos.
-Listagem de módulos ou lições dentro de cada curso, permitindo aos usuários acompanhar seu progresso.
+Páginas dedicadas a cada curso com informações detalhadas sobre o conteúdo.
+
+Listagem de módulos de cada curso, permitindo aos usuários acompanhar seu progresso.
 
 
 ### 4. Pesquisa e Recomendações Personalizadas:
 Sistema de busca avançada para encontrar cursos com base em títulos, categorias e habilidades específicas.
+
 Recomendações personalizadas com base nos interesses e histórico de visualização do usuário.
 
 
 ### 5. Acompanhamento do Progresso:
 Registro do progresso do usuário em cada curso, permitindo a retomada de onde parou.
-Estatísticas detalhadas sobre o progresso e a conclusão dos cursos.
 
 
 ### 6. Secções Especiais: Em Alta, Novos e Relacionados:
@@ -39,33 +38,38 @@ Destaque para cursos populares, recém-adicionados e relacionados às tecnologia
 
 
 ### 8. Tecnologias Utilizadas:
-Python e Django: Para a lógica do aplicativo e o desenvolvimento do backend.
-HTML/CSS/JavaScript: Para a criação da interface do usuário responsiva e interativa.
-Banco de Dados: Django ORM para interação com o banco de dados (SQLite, PostgreSQL, MySQL, etc.).
-Autenticação e Autorização: Utilização do Django's Authentication Framework para gerenciar a segurança dos usuários.
+* Python e Django: Para a lógica do aplicativo e o desenvolvimento do backend.
+* HTML/CSS/JavaScript: Para a criação da interface do usuário responsiva e interativa.
+* Banco de Dados: Django ORM para interação com o banco de dados (SQLite, PostgreSQL, MySQL, etc.).
+* Autenticação e Autorização: Utilização do Django's Authentication Framework para gerenciar a segurança dos usuários.
 
 
 ### 9. Benefícios:
 Proporciona uma experiência de aprendizagem semelhante à Netflix, oferecendo familiaridade aos usuários.
+
 Foca em tecnologias essenciais para o mercado de trabalho, facilitando o aprendizado e a prática.
-Este esboço do projeto destaca as funcionalidades e a abordagem para uma plataforma educacional, "HashFlix", centrada em tecnologias como Python, VBA, Excel e SQL. As especificações detalhadas e a implementação completa exigiriam uma análise mais aprofundada do design, fluxo de trabalho e requisitos específicos do projeto.
 
 
 ### Imagens do frontend
 Homepage
 ![image](https://github.com/wdesouza95/hashflix_william/assets/114028870/d82b1e94-8157-455e-a641-d4e8148dd555)
 
+
 Criação de conta
 ![image](https://github.com/wdesouza95/hashflix_william/assets/114028870/e9364142-0eb1-4ad2-97ca-29f1ab7e03f5)
+
 
 Edição do perfil do usuário
 ![image](https://github.com/wdesouza95/hashflix_william/assets/114028870/7918146b-2d30-4958-99b7-37d7052036e8)
 
+
 Seção dos novos conteúdos
 ![image](https://github.com/wdesouza95/hashflix_william/assets/114028870/1ce84ebb-f8ac-4d94-b2d8-101fb9c19ab4)
 
+
 Seção de pesquisa de conteúdo
 ![image](https://github.com/wdesouza95/hashflix_william/assets/114028870/97ae52a2-8d8b-4d45-a26a-5b640c360db3)
+
 
 Pagina do curso com a lista de aulas
 ![image](https://github.com/wdesouza95/hashflix_william/assets/114028870/c9db5f3b-7192-43e2-b2d9-835d054a3aff)
